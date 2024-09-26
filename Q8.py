@@ -1,0 +1,7 @@
+S=str(input('請輸入一個五位數字:'))
+print('結果：')
+print(S[0])
+print(S[1])
+print(S[2])
+print(S[3])
+print(S[4])
