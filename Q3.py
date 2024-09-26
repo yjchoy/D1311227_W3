@@ -1,0 +1,5 @@
+s=int(input('請輸入一個整數：'))
+dan=(s%2!=0)
+shuang=(s%2==0)
+ans=(dan and '是奇數')or(shuang and '是偶數')
+print('結果：',s,ans)
